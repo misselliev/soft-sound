@@ -6,6 +6,10 @@ Building a photo gallery for your favorite artists using [Tailwind CSS](https://
 
 Set up stage
 
+# Live
+
+To be updated
+
 # About
 
 You can reach me at:
