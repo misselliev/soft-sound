@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap');
+/* Fonts */
+
+.highlight {
+  font-family: 'Courgette', cursive;
+  font-size: 2em;
+  padding-bottom: 20px;
+}
+
+/*Header styles*/
+
+.banner {
+  background: url(/img/background.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
