@@ -19,3 +19,7 @@
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
+
+.head-shadow {
+  text-shadow: 0 6px 8px black;
+}
